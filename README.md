@@ -23,7 +23,8 @@ for laptop and tablet users.
 
 - Home Page
 
-![image](https://user-images.githubusercontent.com/89477915/234576369-cffb9c2c-629a-4629-b680-b8a739e814dd.png)
+ ![image](https://github.com/Ankush-Katiyar/E-Yug-Web-App/assets/89477915/d8e367e9-7309-431b-a622-e7cdd81edc49)
+
 
 
 
