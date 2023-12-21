@@ -16,8 +16,6 @@ for laptop and tablet users.
 
 - [@Ankush Katiyar](https://github.com/Ankush-Katiyar)
 - [@Vanshika Kochar](https://github.com/Vanshikakochar1)
-  
-
 
 
 
