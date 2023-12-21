@@ -5,6 +5,7 @@ const Blog = () => {
   return (
     <div>
       <article style={{ border: "1px  red" }}>
+        
         <div
           style={{
             border: "1px  red",
@@ -33,12 +34,12 @@ const Blog = () => {
         <h1>We&rsquo;ll be back soon!</h1>
         <div>
           <p>
-            Sorry for the inconvenience. We&rsquo;re performing some maintenance
-            at the moment. If you need to you can always follow us on{" "}
+            Sorry for the delay. We&rsquo;re performing some maintenance
+            at the moment(Deploying) . If you need to you can always follow us on{" "}
             <a className="glow" href="http://www.twitter.com/">
               Twitter
             </a>{" "}
-            for updates, otherwise we&rsquo;ll be back up shortly!
+            for further updates, otherwise we&rsquo;ll be back up shortly!
           </p>
           <p>&mdash; The E-Yug Team, Jai Hind!!!</p>
         </div>
