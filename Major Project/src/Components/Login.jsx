@@ -60,7 +60,6 @@ export function Login() {
   };
 
   const requestOTP = () => {
-    // e.preventDefault();
     if (phoneNumber.length >= 10) {
       setExpandForm(true);
       generateRecaptcha();
