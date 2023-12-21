@@ -36,7 +36,7 @@ navigate("/:city/summary")
   //  },5000)
 
   return <div>
-     {/* <h1>hello</h1> */}
+     
      {/* {console.log("women--",womensdata!=undefined?womensdata?.Salon_for_women_data[0].package:"nonee")} */}
 
 {womensdata!=undefined? <Split title={womensdata.Salon_for_women_data[0]?.Title} videos={womensdata.Salon_for_women_data[0]?.videos}/> : ''}
